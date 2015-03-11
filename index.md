@@ -2,7 +2,7 @@
 
 ## How So?
 
-**My first page** using Markdown.
+**My first page** using Markdown.  Here is a minor text change.
 
 Written using [Mou][id].
 
